@@ -3690,17 +3690,17 @@ h6 {
       color: #fff; }
 
 .social_widget p {
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 140px;
+  line-height: 240px;
   font-family: "Roboto", sans-serif;
   color: #777777;
-  margin-bottom: 10px; }
+  margin-bottom: 20px; }
 .social_widget .list li {
-  margin-right: 17px;
+  margin-right: 50px;
   display: inline-block; }
   .social_widget .list li a {
     color: #cccccc;
-    font-size: 14px;
+    font-size: 140px;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
